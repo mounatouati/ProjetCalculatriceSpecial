@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mouna
- *
- */
-module CalculatriceS {
-}
