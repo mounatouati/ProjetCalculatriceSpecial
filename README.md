@@ -41,25 +41,25 @@ Saisie chaine de caract�res
 Calculatrice des entiers:
 5 opérations (+, -, multiplication, diviser, modulo)
 
--min 2 nombre et 3 nombres int
--max 2 nombre et 3 nombres int
--puissance int
--factorielle int
--racineCarre int
--estPremier int
--listeNomnresPremiers int
--valeur absolue
+* min 2 nombre et 3 nombres int
+* max 2 nombre et 3 nombres int
+* puissance int
+* factorielle int
+* racineCarre int
+* estPremier int
+* listeNomnresPremiers int
+* valeur absolue
 ---optionnel---sommeNombreVairableDArguments : int
--Bonus logarithme
--Bonus Insérer la dernier résultat dans un calcule (ANS, REP de la calculatrice)
+* Bonus logarithme
+* Bonus Insérer la dernier résultat dans un calcule (ANS, REP de la calculatrice)
 
 * Ajouter une chaine de caractere à analyser à la calculatrice
-   -la modifier
-   -Nombre occurence caracteres dans un la chaine
-   -Remplacer un caracter par un autre
-   -Couper une chaine de caractere en fonction d'un caractere ex (.)
-     -Vérifier si la chaine est trim sinon la trim
-     -Verifier l'intégrité de la chaine = > la chaine de caractere pour qu'elle prenne une majuscule
+* La modifier
+* Nombre occurence caracteres dans un la chaine
+* Remplacer un caracter par un autre
+* Couper une chaine de caractere en fonction d'un caractere ex (.)
+* Vérifier si la chaine est trim sinon la trim
+* Verifier l'intégrité de la chaine = > la chaine de caractere pour qu'elle prenne une majuscule
     en début et point à la fin sinon la modifier automatiquement
 bonus : compter toutes les occurences de tout les caracteres dans la chaine
 
